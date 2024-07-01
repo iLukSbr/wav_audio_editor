@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1667699823 source:c:\users\revox\desktop\trabalho2\trabalho2\teste4_fade.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1651856764 c:\users\revox\desktop\trabalho2\trabalho2\wavfile.h
+	<stdio.h>
+
+1665080494 c:\users\revox\desktop\trabalho2\trabalho2\trabalho2.h
+
+1651853006 source:c:\users\revox\desktop\trabalho2\trabalho2\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+
+1667703814 source:c:\users\revox\desktop\trabalho2\trabalho2\t2-2505649-2516977.c
+	"trabalho2.h"
+	"wavfile.h"
+
+1665082016 source:c:\users\revox\desktop\trabalho2\trabalho2\teste0_basico.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1665082022 source:c:\users\revox\desktop\trabalho2\trabalho2\teste1_ganho.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1665082028 source:c:\users\revox\desktop\trabalho2\trabalho2\teste2_meia.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1665082054 source:c:\users\revox\desktop\trabalho2\trabalho2\teste5_testar.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1665082054 source:j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\teste5_testar.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1651856764 j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\wavfile.h
+	<stdio.h>
+
+1665080494 j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\trabalho2.h
+
+1651853006 source:j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+
+1668042263 source:j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\t2-2505649-2516977.c
+	"trabalho2.h"
+	"wavfile.h"
+
+1667699976 source:j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\teste4_fade.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1665082022 source:j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\teste1_ganho.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1665082028 source:j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\teste2_meia.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1665082034 source:j:\pastas\documentos\utfpr\1per\csf13 fundamentos de programação 1\trabalho2\teste3_dobra.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
